@@ -1,3 +1,4 @@
+@import 'vars.scss';
 *,
 *::before,
 *::after {
@@ -5,7 +6,8 @@
 }
 
 html {
-  color: #0f0f0f;
+  background-color: $color-back;
+  color: $color-text;
   font-size: 1em;
   line-height: 1.4;
 }
