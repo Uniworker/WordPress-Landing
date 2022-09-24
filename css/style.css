@@ -269,4 +269,74 @@ h3 {
   font-size: 1.5em;
   padding: 32px 0;
   text-transform: uppercase;
+}
+
+.download {
+  background: #fff;
+  width: 100%;
+  margin: 32px 0;
+  padding: 16px 0;
+}
+.download img {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto;
+}
+.download a {
+  position: relative;
+  background: #1fad26;
+  color: #fff;
+  display: block;
+  min-height: 40px;
+  margin: 0 auto;
+  width: 20%;
+}
+.download a span {
+  background-image: linear-gradient(to right, #bf4200 0%, #b3d4fc 100%);
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+  background-size: 100% 2px;
+  font-family: "Lato", sans-serif;
+  font-size: 0.8em;
+  display: inline-block;
+  max-width: 250px;
+  width: 100%;
+  position: absolute;
+  left: 6%;
+  transform: translateY(50%);
+  text-transform: uppercase;
+}
+.download a span:hover {
+  background-image: linear-gradient(to left, #bf4200 0%, #b3d4fc 100%);
+}
+
+.gallery__title {
+  color: #bf4200;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  margin: 0 auto;
+  padding-bottom: 32px;
+  width: 55%;
+}
+.gallery__inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+.gallery__inner img {
+  max-width: 240px;
+}
+
+.footer {
+  text-align: center;
+}
+.footer .phone {
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.footer__email {
+  font-family: "Lato", sans-serif;
+  padding: 16px 0;
+  text-decoration: underline;
 }/*# sourceMappingURL=style.css.map */
