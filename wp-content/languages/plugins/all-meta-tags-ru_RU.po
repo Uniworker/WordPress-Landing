@@ -1,0 +1,266 @@
+# Translation of Plugins - All Meta Tags - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - All Meta Tags - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-29 22:09:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - All Meta Tags - Stable (latest release)\n"
+
+#: inc/php/messages.php:126
+msgid "Settings saved successfully."
+msgstr "Настройки успешно сохранены."
+
+#: inc/php/tabs/settings.php:221
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: inc/php/tabs/settings.php:40 inc/php/tabs/settings.php:46
+#: inc/php/tabs/settings.php:52 inc/php/tabs/settings.php:74
+#: inc/php/tabs/settings.php:80 inc/php/tabs/settings.php:86
+#: inc/php/tabs/settings.php:92 inc/php/tabs/settings.php:98
+#: inc/php/tabs/settings.php:104 inc/php/tabs/settings.php:110
+#: inc/php/tabs/settings.php:116 inc/php/tabs/settings.php:122
+msgid "Example:"
+msgstr "Пример:"
+
+#: inc/php/tabs/faq.php:272
+msgid "I love this plugin!"
+msgstr "Мне нравится этот плагин!"
+
+#: inc/php/messages.php:33 inc/php/tabs/support.php:29
+msgid "Hello!"
+msgstr "Привет!"
+
+#: inc/php/tabs/faq.php:102
+msgid "Yes."
+msgstr "Да."
+
+#. Author URI of the plugin
+msgid "https://www.spacexchimp.com"
+msgstr "https://www.spacexchimp.com"
+
+#. Author of the plugin
+msgid "Space X-Chimp"
+msgstr "Space X-Chimp"
+
+#: inc/php/tabs/support.php:53
+msgid "Thank you for your support!"
+msgstr "Спасибо за вашу поддержку!"
+
+#: inc/php/page.php:47
+msgid "Store"
+msgstr "Магазин"
+
+#: inc/php/tabs/faq.php:103
+msgid "This plugin is ready for translation and has already been translated into several languages."
+msgstr "Этот плагин готов к переводу и уже переведен на несколько языков."
+
+#: inc/php/tabs/faq.php:327
+msgid "My question wasn't answered here."
+msgstr "Моего вопроса здесь нет."
+
+#: inc/php/sidebar.php:39
+msgid "If you have a question, please read the information in the FAQ section."
+msgstr "Если у вас есть вопрос, пожалуйста ознакомьтесь с информацией в разделе FAQ."
+
+#: inc/php/tabs/usage.php:22
+msgid "Fill in the required fields."
+msgstr "Заполните необходимые поля."
+
+#: inc/php/tabs/usage.php:23
+msgid "Click the \"Save changes\" button."
+msgstr "Нажмите кнопку «Сохранить изменения»."
+
+#: inc/php/tabs/faq.php:21
+msgid "If you have a question, please read the Frequently Asked Questions below to see if the answer is here."
+msgstr "Если у вас есть вопрос, пожалуйста, прочтите часто задаваемые вопросы."
+
+#: inc/php/page.php:36
+msgid "Version"
+msgstr "Версия"
+
+#: inc/php/tabs/faq.php:228
+msgid "Where to report bug if found?"
+msgstr "Где можно сообщить об ошибке?"
+
+#: inc/php/tabs/faq.php:256
+msgid "Where to share any ideas or suggestions to make the plugin better?"
+msgstr "Где можно поделиться идеями или предложениями, чтобы сделать плагин лучше?"
+
+#: inc/php/sidebar.php:53 inc/php/tabs/settings.php:277
+#: inc/php/tabs/support.php:25
+msgid "Donate with PayPal"
+msgstr "Пожертвовать через Pay Pal"
+
+#: inc/php/tabs/faq.php:176
+msgid "Does this plugin requires any modification of the theme?"
+msgstr "Этот плагин требует изменения темы?"
+
+#: inc/php/tabs/faq.php:184
+msgid "Does this require any knowledge of HTML or CSS?"
+msgstr "Требуются ли какие-либо знания HTML или CSS?"
+
+#: inc/php/messages.php:90
+msgid "You have installed an old version of this plugin."
+msgstr "Вы установили устаревшую версию этого плагина."
+
+#: inc/php/messages.php:91
+msgid "Please update the plugin to the latest version, and all will be fine."
+msgstr "Пожалуйста, обновите плагин до последней версии и всё будет отлично."
+
+#: inc/php/page.php:44
+msgid "Usage"
+msgstr "Применение"
+
+#: inc/php/page.php:45
+msgid "F.A.Q."
+msgstr "F.A.Q."
+
+#: inc/php/page.php:46 inc/php/sidebar.php:46 inc/php/tabs/settings.php:270
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/php/tabs/usage.php:19
+msgid "To add the meta tags to your website, simply follow these steps:"
+msgstr "Для того чтобы добавить метатеги на ваш веб-сайт, выполните следующие действия:"
+
+#: inc/php/tabs/faq.php:129 inc/php/tabs/usage.php:24
+msgid "Enjoy the improved SEO of your website."
+msgstr "Наслаждайтесь улучшенным SEO вашего веб-сайта."
+
+#: inc/php/tabs/faq.php:130 inc/php/tabs/usage.php:24
+msgid "It's that simple!"
+msgstr "Вот так просто!"
+
+#: inc/php/tabs/settings.php:228
+msgid "Note!"
+msgstr "Примечание!"
+
+#: inc/php/tabs/faq.php:99
+msgid "Can I use this plugin on my language?"
+msgstr "Можно ли использовать этот плагин на моём языке?"
+
+#: inc/php/tabs/faq.php:17
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: inc/php/tabs/faq.php:125
+msgid "How does it work?"
+msgstr "Как это работает?"
+
+#: inc/php/tabs/faq.php:134
+msgid "How much of description I can enter in the text field?"
+msgstr "Сколько описаний я могу ввести в текстовое поле?"
+
+#: inc/php/tabs/faq.php:141
+msgid "How much of keywords I can enter in the text field?"
+msgstr "Сколько ключевых слов я могу ввести в текстовое поле?"
+
+#: inc/php/tabs/settings.php:235
+msgid "WooCommerce & Google Shopping"
+msgstr "WooCommerce и Google Shopping"
+
+#: inc/php/tabs/settings.php:178
+msgid "Author"
+msgstr "Автор"
+
+#: inc/php/tabs/settings.php:183
+msgid "Designer"
+msgstr "Дизайнер"
+
+#: inc/php/tabs/settings.php:188
+msgid "Contact"
+msgstr "Контакты"
+
+#: inc/php/tabs/settings.php:198
+msgid "Keyword(s)"
+msgstr "Ключевые слова"
+
+#: inc/php/tabs/settings.php:193
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/php/tabs/settings.php:200
+msgid "Enter a comma-delimited list of global keywords for your website."
+msgstr "Введите, разделенный запятыми, список глобальных ключевых слов для вашего веб-сайта."
+
+#: inc/php/tabs/settings.php:136
+msgid "Home Description"
+msgstr "Описание главной страницы"
+
+#: inc/php/tabs/settings.php:141
+msgid "Home Keyword(s)"
+msgstr "Ключевые слова главной страницы"
+
+#: inc/php/tabs/settings.php:157
+msgid "Blog Description"
+msgstr "Описание блога"
+
+#: inc/php/tabs/settings.php:162
+msgid "Blog Keyword(s)"
+msgstr "Ключевые слова блога"
+
+#: inc/php/tabs/settings.php:164
+msgid "Enter a comma-delimited list of keywords for only Blog Page of your website."
+msgstr "Введите, разделенный запятыми, список ключевых слов для только Blog Page вашего веб-сайта."
+
+#: inc/php/tabs/settings.php:143
+msgid "Enter a comma-delimited list of keywords for only Static Home Page of your website."
+msgstr "Введите, разделенный запятыми, список ключевых слов для только Static Home Page вашего веб-сайта."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/ArthurGareginyan/all-meta-tags"
+msgstr "https://github.com/ArthurGareginyan/all-meta-tags"
+
+#: inc/php/tabs/settings.php:153
+msgid "You can use the options below to add meta tags such as Description and Keywords only in Default Home Page and Blog Page of your website."
+msgstr "Вы можете использовать ниже-расположенные опции для добавления мета тегов таких как Description и Keywords только на Default Home Page и Blog Page страницы вашего вебсайта."
+
+#: inc/php/tabs/settings.php:174
+msgid "You can use the options below to add meta tags such as Author, Copyright and Keywords in everywhere on your website."
+msgstr "Вы можете использовать ниже-расположенные опции для добавления мета тегов таких как Author, Copyright и Keywords на каждую страницу вашего вебсайта."
+
+#: inc/php/tabs/settings.php:132
+msgid "You can use the options below to add meta tags such as Description and Keywords only in Static Home Page of your website."
+msgstr "Вы можете использовать ниже-расположенные опции для добавления мета тегов таких как Description и Keywords только на Static Home Page страницу вашего вебсайта."
+
+#: inc/php/tabs/settings.php:61
+msgid "Domain Verification"
+msgstr "Подтверждение домена"
+
+#: inc/php/tabs/settings.php:27
+msgid "Web Master Tools"
+msgstr "Веб-мастер инструменты"
+
+#: inc/php/sidebar.php:55 inc/php/tabs/settings.php:279
+msgid "Thanks for your support!"
+msgstr "Спасибо за вашу поддержку!"
+
+#: inc/php/tabs/settings.php:22 inc/php/tabs/settings.php:216
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: inc/php/core.php:54
+msgid "Donate"
+msgstr "Поддержать"
+
+#: inc/php/sidebar.php:37
+msgid "Help"
+msgstr "Помощь"
+
+#. Plugin Name of the plugin
+msgid "All Meta Tags"
+msgstr "All Meta Tags"
+
+#: inc/php/sidebar.php:28
+msgid "About"
+msgstr "О плагине"
+
+#: inc/php/core.php:32 inc/php/page.php:43
+msgid "Settings"
+msgstr "Настройки"
